@@ -1,5 +1,5 @@
 # shuram_excursion_carbonates_oman
-Github repository for Bergmann et al., in review, Origins and alteration of Ediacaran carbonates in the Shuram1 excursion of Oman
+Github repository for Bergmann et al., in review, Origins and alteration of Ediacaran carbonates in the Shuram excursion of Oman
 
 This repository contains data, code, and supporting materials for our study of the carbonate strata associated with the Shuram excursion, the largest known negative carbon isotope excursion in Earth's history. Our research investigates sedimentological, geochemical, and isotopic evidence to evaluate the nature and degree of diagenesis in these carbonate rocks, with a focus on understanding primary signals and diagenetic overprints.
 
