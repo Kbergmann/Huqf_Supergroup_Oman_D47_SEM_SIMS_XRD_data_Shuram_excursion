@@ -148,8 +148,8 @@ def make_plot(df, plot_suffix):
     fig, ax = plt.subplots(figsize=(3.5, 3.5))  # Square plot
     carbonT_plot_continuous(ax, df)
     plt.tight_layout()  # Adjust layout to avoid overlaps
-    filename_svg = f'figures/Finals_July2024/{plot_suffix}_D47_vs_d13C.svg'
-    filename_pdf = f'figures/Finals_July2024/{plot_suffix}_D47_vs_d13C.pdf'
+    filename_svg = f'figures/{plot_suffix}_D47_vs_d13C.svg'
+    filename_pdf = f'figures/{plot_suffix}_D47_vs_d13C.pdf'
     plt.savefig(filename_svg, format='svg', bbox_inches="tight", transparent=False, pad_inches=0)
     plt.savefig(filename_pdf, format='pdf', bbox_inches="tight", transparent=False, pad_inches=0)
     plt.close()

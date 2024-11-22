@@ -46,7 +46,7 @@ mpl.rcParams['lines.solid_capstyle'] = 'round'
 # Load and Filter Data
 # ===========================
 # Input file path
-df = pd.read_csv('data/figures/master_spreadsheet_geochemistry_2024.csv')
+df = pd.read_csv('data/master_spreadsheet_geochemistry_2024_newcomp.csv')
 
 # Filter for samples with δ44/40Ca data
 df = df[df['Ca44_40'].notnull()]
@@ -128,8 +128,8 @@ def make_plot(df, plot_suffix):
     fig, ax = plt.subplots(figsize=(3.5, 3.5))  # Square plot
     calcium_plot_continuous(ax, df)
     plt.tight_layout()  # Adjust layout to avoid overlaps
-    filename_svg = f'figures/Finals_July2024/{plot_suffix}_d44Ca_vs_d13C.svg'
-    filename_pdf = f'figures/Finals_July2024/{plot_suffix}_d44Ca_vs_d13C.pdf'
+    filename_svg = f'figures/{plot_suffix}_d44Ca_vs_d13C.svg'
+    filename_pdf = f'figures/{plot_suffix}_d44Ca_vs_d13C.pdf'
     plt.savefig(filename_svg, format='svg', bbox_inches="tight", transparent=False, pad_inches=0)
     plt.savefig(filename_pdf, format='pdf', bbox_inches="tight", transparent=False, pad_inches=0)
     plt.close()

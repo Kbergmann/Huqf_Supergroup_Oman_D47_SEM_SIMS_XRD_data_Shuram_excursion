@@ -18,7 +18,7 @@ import pandas as pd
 
 # ========== LOAD DATA ==========
 # Define file path for the .mat file
-mat_file_path = '/data/figures/fig9/xanes.mat'
+mat_file_path = '/data/xanes.mat'
 mat = scipy.io.loadmat(mat_file_path)
 
 # Extract data to a pandas DataFrame (replace 'data_key' with the correct key in your .mat file)
