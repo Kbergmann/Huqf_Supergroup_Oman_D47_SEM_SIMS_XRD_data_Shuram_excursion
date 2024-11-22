@@ -3,24 +3,32 @@ Github repository for Bergmann et al., in review, Origins and alteration of Edia
 
 This repository contains data, code, and supporting materials for our study of the carbonate strata associated with the Shuram excursion, the largest known negative carbon isotope excursion in Earth's history. Our research investigates sedimentological, geochemical, and isotopic evidence to evaluate the nature and degree of diagenesis in these carbonate rocks, with a focus on understanding primary signals and diagenetic overprints.
 
-Project Overview
-The Shuram excursion, recognized globally in Ediacaran strata, provides crucial insights into environmental and biological evolution preceding the rise of complex multicellular organisms. This repository includes:
+Project Overview:
+The Shuram excursion is recognized globally in Ediacaran strata. 
 
-Data and figures documenting sedimentological and geochemical characteristics.
-Code for statistical analysis and figure generation.
-Supporting materials for understanding diagenetic alteration processes.
-
-Repository Contents
-data/: Contains raw and processed datasets for geochemical and isotopic analyses.
+This repository includes:
+data/: Contains processed datasets for stratigraphic, geochemical and isotopic analyses.
 code/: Python scripts for data analysis and figure generation.
-figures/: High-resolution figures included in the publication.
-docs/: Supporting documents, such as methodology descriptions and supplementary materials.
 README.md: This file, providing an overview of the project.
 
+The companion Open Science Framework repository includes:  
+\textbf{Figures:} All figures included in the study, in PDF format.
+\textbf{Field Photographs:} Field images from different stratigraphic intervals, classified by depositional stages (e.g., pre-, syn-, onset, recovery), in JPG format.
+\textbf{Stratigraphic Columns:} A composite stratigraphic column and corresponding GPS locations in Excel format. Detailed drawn stratigraphic columns in PDF format. 
+\textbf{Thin Sections:} Many high-resolution thin-section images not highlighted in the manuscript are included, with corresponding metadata, in TIFF format.
+\textbf{XRD (X-ray Diffraction):} Raw and processed diffraction data for Shuram samples, in Word and XRML.
+\textbf{ICP-OES (Inductively Coupled Plasma Analysis):} Data on trace metal analysis, following strong and acidic leachates, in Excel format.
+\textbf{SEM (Scanning Electron Microscopy):} Microstructural and BSE images from various samples, including cryo-fracturing experiments, in TIFF format.
+\textbf{EBSD (Electron Backscatter Diffraction):} Processed EBSD data and associated raw images for calcite and dolomite samples, in PDF and JPG formats.
+\textbg{EPMA (Electron Microprobe Analysis):} Quantitative point datasets of elemental analysis of calcite and dolomite samples accompanied by images with labeled point locations, in CSV and PDF formats. Also includes EPMA maps of element counts in TXT format. 
+\textbf{XAS (X-ray Absorption Spectroscopy):} Analysis of Mn and Fe standards, as well as processed Shuram data from SSRL, in Excel format.
+\textbf{Carbon, Oxygen, and Clumped Isotope Data:} Processed and raw datasets of clumped isotope measurements from Oman samples collected at MIT. Includes raw voltage data for each analysis and processed outputs from ClumpyCrunch and BLIMP, as well as plots summarizing standards and results, in CSV, HTML, and PNG formats.
+\textbf{Burial History Data:} Burial history models for three wells (A, B, C), in CSV format.
+\textbf{SIMS Data:} Raw and processed isotopic measurements as well as labeled SEM images of each analyzed point, in CSV, XLS, ASC, and PDF formats.
+
 Key Features
-Analysis of four modes of diagenetic alteration, highlighting sediment-buffered diagenesis and authigenic carbonate precipitation.
+Analysis of four modes of diagenetic alteration, highlighting sediment-buffered diagenesis and authigenic carbonate precipitation as important components of Shuram excursion nadir.
 Integration of techniques spanning scales from microscale to outcrop.
-Insights into terrestrial and marine environmental conditions during early animal evolution.
 
 Usage Instructions
 Clone the Repository:
