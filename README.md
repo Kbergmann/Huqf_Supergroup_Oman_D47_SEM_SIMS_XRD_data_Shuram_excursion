@@ -52,9 +52,6 @@ Raw and processed isotopic measurements as well as labeled SEM images of each an
 figures/
 All figures included in the study, in PDF format.
 
-Field Photographs:
-Field images from different stratigraphic intervals, classified by depositional stages (e.g., pre-, syn-, onset, recovery), in JPG format.
-
 Key Features
 Analysis of four modes of diagenetic alteration, highlighting sediment-buffered diagenesis and authigenic carbonate precipitation as important components of Shuram excursion nadir.
 Integration of techniques spanning scales from microscale to outcrop.
@@ -81,7 +78,7 @@ This repository is currently private for peer review. If you have access, please
 Citation
 If using this repository, please cite the associated publication:
 
-Bergmann, et al. "Origins and alteration of Ediacaran carbonates in the Shuram1 excursion of Oman." Journal Name, Year. DOI: [To be added upon publication].
+Bergmann, K.D. et al. "Origins and alteration of Ediacaran carbonates recording the Shuram excursion in Oman." Journal Name, Year. DOI: [To be added upon publication].
 
 License
 This repository is licensed under the MIT License. See LICENSE for details.
