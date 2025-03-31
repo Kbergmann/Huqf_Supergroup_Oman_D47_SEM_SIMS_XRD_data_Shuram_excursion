@@ -6,54 +6,54 @@ This repository contains data, code, and supporting materials for our study of t
 Project Overview:
 The Shuram excursion is recognized globally in Ediacaran strata. 
 
-This repository includes:
+README.md: This file, providing an overview of the project.
 
-data/: Contains processed datasets for stratigraphic, geochemical and isotopic analyses.
+This repository includes:
 
 code/: Python scripts for data analysis and figure generation.
 
-README.md: This file, providing an overview of the project.
+data/: Contains processed datasets for stratigraphic, geochemical, and isotopic analyses.
 
-The companion Open Science Framework repository includes:
+data/GPS_coord: corresponding GPS locations for all sample sites in Excel format
 
-Figures:
+data/Stratigraphic_Columns:
+A composite stratigraphic column. Detailed drawn stratigraphic columns in PDF format.
+
+data/XRD:
+Raw and processed diffraction data for Shuram samples, in Word and XRML.
+
+data/ICP:
+Data on trace metal analysis, following strong and acidic leachates, in Excel format.
+
+data/SEM:
+Microstructural and BSE images from various samples, including cryo-fracturing experiments, in TIFF format.
+
+data/EBSD:
+Processed EBSD data and associated raw images for calcite and dolomite samples, in PDF and JPG formats.
+
+data/EPMA:
+Quantitative point datasets of elemental analysis of calcite and dolomite samples accompanied by images with labeled point locations, in CSV and PDF formats. Also includes EPMA maps of element counts in TXT format.
+
+data/XAS:
+Analysis of Mn and Fe standards, as well as processed Shuram data from SSRL in Excel format.
+
+data/13C_18O_isotopes:
+Isotopic results in CSV format
+
+data/D47:
+Processed and raw datasets of clumped isotope measurements from Oman samples collected at MIT. Includes raw voltage data for each analysis and processed outputs from ClumpyCrunch and BLIMP, as well as plots summarizing standards and results, in CSV, HTML, and PNG formats.
+
+data/Burial_History:
+Burial history models for three wells (A, B, C), in CSV format.
+
+data/sims:
+Raw and processed isotopic measurements as well as labeled SEM images of each analyzed point, in CSV, XLS, ASC, and PDF formats.
+
+figures/
 All figures included in the study, in PDF format.
 
 Field Photographs:
 Field images from different stratigraphic intervals, classified by depositional stages (e.g., pre-, syn-, onset, recovery), in JPG format.
-
-Stratigraphic Columns:
-A composite stratigraphic column and corresponding GPS locations in Excel format. Detailed drawn stratigraphic columns in PDF format.
-
-Thin Sections:
-Many high-resolution thin-section images not highlighted in the manuscript are included, with corresponding metadata, in TIFF format.
-
-XRD (X-ray Diffraction):
-Raw and processed diffraction data for Shuram samples, in Word and XRML.
-
-ICP-OES (Inductively Coupled Plasma Analysis):
-Data on trace metal analysis, following strong and acidic leachates, in Excel format.
-
-SEM (Scanning Electron Microscopy):
-Microstructural and BSE images from various samples, including cryo-fracturing experiments, in TIFF format.
-
-EBSD (Electron Backscatter Diffraction):
-Processed EBSD data and associated raw images for calcite and dolomite samples, in PDF and JPG formats.
-
-EPMA (Electron Microprobe Analysis):
-Quantitative point datasets of elemental analysis of calcite and dolomite samples accompanied by images with labeled point locations, in CSV and PDF formats. Also includes EPMA maps of element counts in TXT format.
-
-XAS (X-ray Absorption Spectroscopy):
-Analysis of Mn and Fe standards, as well as processed Shuram data from SSRL, in Excel format.
-
-Carbon, Oxygen, and Clumped Isotope Data:
-Processed and raw datasets of clumped isotope measurements from Oman samples collected at MIT. Includes raw voltage data for each analysis and processed outputs from ClumpyCrunch and BLIMP, as well as plots summarizing standards and results, in CSV, HTML, and PNG formats.
-
-Burial History Data:
-Burial history models for three wells (A, B, C), in CSV format.
-
-SIMS Data:
-Raw and processed isotopic measurements as well as labeled SEM images of each analyzed point, in CSV, XLS, ASC, and PDF formats.
 
 Key Features
 Analysis of four modes of diagenetic alteration, highlighting sediment-buffered diagenesis and authigenic carbonate precipitation as important components of Shuram excursion nadir.
