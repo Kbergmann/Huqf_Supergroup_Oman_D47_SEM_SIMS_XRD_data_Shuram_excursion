@@ -1,0 +1,95 @@
+"Version 15"
+"Sample Bellows Sensor Minimum Position ",1500
+"Sample Bellows Sensor Maximum Position ",8450
+"Reference Bellows Sensor Minimum Position ",1500
+"Reference Bellows Sensor Maximum Position ",8400
+"Sample Bellows Minimum Volume ",3.61
+"Sample Bellows Maximum Volume ",32
+"Reference Bellows Minimum Volume ",8.69
+"Reference Bellows Maximum Volume ",95
+"Target ion beam for reference and sample balancing ",5E-08
+"Maximum ion beam for reference and sample balancing ",1.5E-07
+"Order of Cold Finger Temperature sensor fit ",4
+"CF Fit constant (1)",-257.4186
+"CF Fit constant (2)",870.524
+"CF Fit constant (3)",-321.8946
+"CF Fit constant (4)",533.7923
+"Sensor Fit Constant (1) ",0
+"Sensor Fit Constant (2) ",.03052
+"Upper Sensor reading(mbar) for Cold Finger operation ",100
+"Upper Sensor reading(mbar) for Bellows use ",500
+"Cold Finger base temperatures ",-160
+"Carb Prep Cold Finger trapping time at min temp (secs) ",180
+"Cold Finger heater switch off above this temperature ",-15
+"Maximum time for cold finger to reach base temperature (secs)",600
+"TransducerOffset",1.31236
+"CF Steady Temperature Deviation",.2
+"Balance Accuracy",1
+"Sample Inlet to Bellows Stabilisation Time",60
+"CO Stabilisation Time",12
+"Psuedo DI Run",#FALSE#
+"Report DI Valve Changes",#TRUE#
+"Single CFDepletion Factor",.96
+"Double CFDepletion Factor",.96
+"Max No Chops",5
+"Run from Bellows",#TRUE#
+"Run Misbalanced",#TRUE#
+"Max time to pump on Low Vac",10
+"LV Pirani value to switch to High Vac",.1
+"Time to pump on High Vac Turbo pump",180
+"Maximum number of bad samples per run ",1200
+"Bake CF - Time (s) to hold at temperature",120
+"Bake CF - Temperature (degC) to bake to ",100
+"Bake CF - Time (s) to cool with LN2 ",5
+"Bake CF - Time (s) to wait for temperature stabilisation",10
+"CF Stabilisation time (s) after reaching ambient temperature",45
+"Min Sample Factor",.08
+"InletCF Duty Cycle On (1/100s)",20
+"InletCF Duty Cycle Off (1/100s)",30
+"PrepCF Duty Cycle On (1/100s)",20
+"PrepCF Duty Cycle Off (1/100s)",50
+"Time to pump Manifold on HiVac Turbo",30
+"After CF HeatBlock to ",23
+"Time to pump chop on High Vac",60
+"DI Zero stable if deviation better than ",.0000000000008
+"Prep Cold Finger base temperatures ",-160
+"Disable Change Over valve",#FALSE#
+"Upper Sensor reading (mbar) for Manifold Large Sample Cold Finger operation ",15
+"Manifold Cold Finger Large Sample Equilibration time (s)",30
+"ForecastMax",#FALSE#
+"ForecastMaxFactor",3.099658
+"Bellows Move Stabilisation Time",12
+"Auto Bellows Move Accuracy (%)",1
+"Bakeout_Target",50
+"Bakeout_Bellows_Target",80
+"Bakeout_Inlet_CF_Target",50
+"Bakeout_Prep_CF_Target",80
+"Bakeout_Water_Target",80
+"Bakeout_Src_Analyser_Target",80
+"Bakeout_FT_Analyser_Target","80"
+"Bakeout_Analyser_Target",80
+"Bakeout_Manifold_Target",80
+"Manifold Cold Finger trapping time at min temp (secs) ",180
+"Manifold Upper Sensor reading(mbar) for Cold Finger operation ",0
+"Manifold Upper Sensor reading(mbar) for Bellows use ",0
+"Manifold Upper Sensor reading (mbar) for Large sample Cold Finger operation ",0
+"Bakeout_AdTrap_CF_Target",150
+"AdTrap_CF_Temp_Target",-80
+"AdTrap_CF_Duty_Cycle_On",100
+"AdTrap_CF_Duty_Cycle_Off",400
+"Ref Transducer Offset",0
+"Ref Sensor Fit Constant (1) ",0
+"Ref Sensor Fit Constant (2) ",0
+"Bellows Depletion Rate",.002
+"CF Double Chop Stabilisation Time (secs)",20
+"WT CF Base Temperature",-160
+"Bakeout WT CF Target",80
+"WT CF Duty Cycle On",200
+"WT CF Duty Cycle Off",600
+"Step Predict Open Bellows Correction Factor (fraction of move, 0 to 1)",.3
+"Step Predict Close Bellows Correction Factor (fraction of move, 0 to 1)",.3
+"Step Predict Correction Cut-off (% TargetError, 0 to 10000)",0
+"WT CF Transducer Offset",0
+"WT CF Sensor Fit Constant (1) ",0
+"WT CF Sensor Fit Constant (2) ",.03052
+"C/O integrations rejection level",4

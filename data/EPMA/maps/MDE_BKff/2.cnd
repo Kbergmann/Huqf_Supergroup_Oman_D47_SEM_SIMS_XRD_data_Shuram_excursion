@@ -1,0 +1,29 @@
+$CM_TYPE            Image
+$CM_NAME            k_bergman/052224
+$CM_COMMENT         MDE_BKff                                
+$CM_DATE            2024-05-22
+$CM_TIME            23:30:00
+$CM_INSTRUMENT      JXA-8800
+$CM_DATA_TYPE       0
+$CM_FRAME_SIZE      250 250
+$CM_DATA_BIT        16
+$CM_BYTE_ORDER      0
+$CM_ACCEL_VOLT      15.0 kV
+$CM_MAG             40
+$CM_CURRENT         1.050e-08
+$CM_SCAN_SPEED      S6  
+$CM_ACCUMULATION    1
+$CM_PIXEL_MES       100 msec
+$CM_PIXEL_SIZE      2.00 2.00 um
+$CM_STAGE_POS       30.5765 59.1055 10.6050 mm
+$CM_MAX_MIN_AVE     112 0 2
+$XM_APPLICATION     Map Analysis
+$XM_ELEMENT         Sr
+$XM_CHANNEL         2
+$XM_CRYSTAL         TAP     
+$XM_CRYSTAL_NO      1
+$XM_SCAN_TYPE       S
+$XM_DWELL_TIME      100 msec
+$XM_STEP_SIZE       2.00 2.00 um
+$XM_MAP_START       30.3275 58.8565 10.6050 mm
+$XM_POINTS          250 250

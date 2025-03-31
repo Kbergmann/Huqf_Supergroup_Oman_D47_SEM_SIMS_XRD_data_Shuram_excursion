@@ -1,0 +1,284 @@
+﻿Sample,Region,Position,Block,Measurement,File,Spot,FullName,Isotope,SD,ooidType,Type,Sample_Name
+MD,1,1,cement1 1-5,C,MD1,5,C_MD_cement1 1-5_1,-8.251277846,0.922591202,cement,cement,MDE_173_6
+MD,1,1,ooid1 1-5,C,MD1,8,C_MD_ooid1 1-5_1,-9.309024672,0.922591202,ooid,ooid,MDE_173_6
+MD,1,1,pink1 1-5,C,MD1,,C_MD_pink1 1-5_1,-8.917272188,0.922591202,pink,pink,MDE_173_6
+MD,1,2,cement1 1-5,C,MD1,1,C_MD_cement1 1-5_2,-9.452813244,0.922591202,cement,cement,MDE_173_6
+MD,1,2,ooid1 1-5,C,MD1,12,C_MD_ooid1 1-5_2,-8.704536663,0.922591202,ooid,ooid,MDE_173_6
+MD,1,3,cement1 1-5,C,MD1,4,C_MD_cement1 1-5_3,-8.257304686,0.922591202,cement,cement,MDE_173_6
+MD,1,3,ooid1 1-5,C,MD1,15,C_MD_ooid1 1-5_3,-8.996352261,0.922591202,ooid,ooid,MDE_173_6
+MD,1,4,cement1 1-5,C,MD1,0,C_MD_cement1 1-5_4,-9.233858673,0.922591202,cement,cement,MDE_173_6
+MD,1,4,ooid1 1-5,C,MD1,9,C_MD_ooid1 1-5_4,-10.1422575,0.922591202,ooid,ooid,MDE_173_6
+MD,1,5,cement1 1-5,C,MD1,18,C_MD_cement1 1-5_5,-9.983186376,0.922591202,cement,cement,MDE_173_6
+MD,1,5,ooid1 1-5,C,MD1,16,C_MD_ooid1 1-5_5,-9.879029117,0.922591202,ooid,ooid,MDE_173_6
+MD,2,1,pink2 1-10,C,MD2,16,C_MD_pink2 1-10_1,-9.493338765,0.922591202,pink,pink,MDE_173_6
+MD,2,2,pink2 1-10,C,MD2,11,C_MD_pink2 1-10_2,-7.516304065,0.922591202,pink,pink,MDE_173_6
+MD,2,3,pink2 1-10,C,MD2,10,C_MD_pink2 1-10_3,-9.268582712,0.922591202,pink,pink,MDE_173_6
+MD,2,4,pink2 1-10,C,MD2,15,C_MD_pink2 1-10_4,-9.305058683,0.922591202,pink,pink,MDE_173_6
+MD,2,5,pink2 1-10,C,MD2,7,C_MD_pink2 1-10_5,-9.645427874,0.922591202,pink,pink,MDE_173_6
+MD,2,6,pink2 1-10,C,MD2,17,C_MD_pink2 1-10_6,-9.545282881,0.922591202,pink,pink,MDE_173_6
+MD,2,7,pink2 1-10,C,MD2,19,C_MD_pink2 1-10_7,-8.739427627,0.922591202,pink,pink,MDE_173_6
+MD,2,8,pink2 1-10,C,MD2,22,C_MD_pink2 1-10_8,-9.854232182,0.922591202,pink,pink,MDE_173_6
+MD,2,9,pink2 1-10,C,MD2,24,C_MD_pink2 1-10_9,-9.076914437,0.922591202,pink,pink,MDE_173_6
+MD,2,10,pink2 1-10,C,MD2,26,C_MD_pink2 1-10_10,-10.09445578,0.922591202,pink,pink,MDE_173_6
+MD,2,11,pink2 11-20,C,MD2,6,C_MD_pink2 11-20_11,-8.140902587,0.922591202,pink,pink,MDE_173_6
+MD,2,12,pink2 11-20,C,MD2,5,C_MD_pink2 11-20_12,-8.59868518,0.922591202,pink,pink,MDE_173_6
+MD,2,13,pink2 11-20,C,MD2,2,C_MD_pink2 11-20_13,-8.504876483,0.922591202,pink,pink,MDE_173_6
+MD,2,14,pink2 11-20,C,MD2,3,C_MD_pink2 11-20_14,-8.134931473,0.922591202,pink,pink,MDE_173_6
+MD,2,15,pink2 11-20,C,MD2,1,C_MD_pink2 11-20_15,-8.553688855,0.922591202,pink,pink,MDE_173_6
+MD,2,16,pink2 11-20,C,MD2,0,C_MD_pink2 11-20_16,-8.037691595,0.922591202,pink,pink,MDE_173_6
+MD,2,17,pink2 11-20,C,MD2,,C_MD_pink2 11-20_17,-10.31565092,0.922591202,pink,pink,MDE_173_6
+MD,2,18,pink2 11-20,C,MD2,,C_MD_pink2 11-20_18,-10.57128475,0.922591202,pink,pink,MDE_173_6
+MD,2,19,pink2 11-20,C,MD2,4,C_MD_pink2 11-20_19,-9.513054875,0.922591202,pink,pink,MDE_173_6
+MD,2,20,pink2 11-20,C,MD2,4,C_MD_pink2 11-20_20,-9.768153667,0.922591202,pink,pink,MDE_173_6
+MD,1,2,pink1 1-5,C,MD3,2,C_MD_pink1 1-5_2,-6.01114229,0.922591202,pink,pink,MDE_173_6
+MD,1,3,pink1 1-5,C,MD3,3,C_MD_pink1 1-5_3,-9.941967992,0.922591202,pink,pink,MDE_173_6
+MD,1,4,pink1 1-5,C,MD3,7,C_MD_pink1 1-5_4,-7.262439137,0.922591202,pink,pink,MDE_173_6
+MD,1,5,pink1 1-5,C,MD3,8,C_MD_pink1 1-5_5,-8.166992046,0.922591202,pink,pink,MDE_173_6
+MD,2,1,cement2 1-5,C,,,C_MD_cement2 1-5_1,-8.56049968,0.922591202,cement,cement,MDE_173_6
+MD,2,1,ooid2 1-5,C,,,C_MD_ooid2 1-5_1,-10.59614831,0.922591202,ooid,ooid,MDE_173_6
+MD,2,2,cement2 1-5,C,,,C_MD_cement2 1-5_2,-8.508841224,0.922591202,cement,cement,MDE_173_6
+MD,2,2,ooid2 1-5,C,,,C_MD_ooid2 1-5_2,-7.57356529,0.922591202,ooid,ooid,MDE_173_6
+MD,2,3,cement2 1-5,C,,,C_MD_cement2 1-5_3,-8.751720977,0.922591202,cement,cement,MDE_173_6
+MD,2,3,ooid2 1-5,C,,,C_MD_ooid2 1-5_3,-8.56520017,0.922591202,ooid,ooid,MDE_173_6
+MD,2,4,cement2 1-5,C,,,C_MD_cement2 1-5_4,-9.639642212,0.922591202,cement,cement,MDE_173_6
+MD,2,4,ooid2 1-5,C,,,C_MD_ooid2 1-5_4,-9.017159902,0.922591202,ooid,ooid,MDE_173_6
+MD,2,5,cement2 1-5,C,,,C_MD_cement2 1-5_5,-9.060263261,0.922591202,cement,cement,MDE_173_6
+MD,2,5,ooid2 1-5,C,,,C_MD_ooid2 1-5_5,-8.865703068,0.922591202,ooid,ooid,MDE_173_6
+MD,5,1,cement5 1-5,C,MD3,0,C_MD_cement5 1-5_1,-8.910761188,0.922591202,cement,cement,MDE_173_6
+MD,5,2,cement5 1-5,C,MD3,1,C_MD_cement5 1-5_2,-10.48348035,0.922591202,cement,cement,MDE_173_6
+MD,5,3,cement5 1-5,C,MD3,4,C_MD_cement5 1-5_3,-8.952400673,0.922591202,cement,cement,MDE_173_6
+MD,5,4,cement5 1-5,C,MD3,6,C_MD_cement5 1-5_4,-9.486472712,0.922591202,cement,cement,MDE_173_6
+MD,5,5,cement5 1-5,C,MD3,5,C_MD_cement5 1-5_5,-8.731112471,0.922591202,cement,cement,MDE_173_6
+MD,1,1,cement 1,O,MD1,7,O_MD_cement 1_1,-6.486875908,0.919195227,cement,cement,MDE_173_6
+MD,1,1,ooid 1,O,MD1,10,O_MD_ooid 1_1,-8.297872034,0.919195227,ooid,ooid,MDE_173_6
+MD,1,2,cement 1,O,MD1,3,O_MD_cement 1_2,-8.027380266,0.919195227,cement,cement,MDE_173_6
+MD,1,2,ooid1,O,MD1,13,O_MD_ooid1_2,-9.772588911,0.919195227,ooid,ooid,MDE_173_6
+MD,1,3,cement 1,O,MD1,6,O_MD_cement 1_3,-6.530086649,0.919195227,cement,cement,MDE_173_6
+MD,1,3,ooid 1,O,MD1,17,O_MD_ooid 1_3,-9.567127664,0.919195227,ooid,ooid,MDE_173_6
+MD,1,4,cement 1,O,MD1,2,O_MD_cement 1_4,-8.884555265,0.919195227,cement,cement,MDE_173_6
+MD,1,4,ooid 1,O,MD1,11,O_MD_ooid 1_4,-9.20851938,0.919195227,ooid,ooid,MDE_173_6
+MD,1,5,cement 1,O,MD1,19,O_MD_cement 1_5,-7.384996355,0.919195227,cement,cement,MDE_173_6
+MD,1,5,ooid 1,O,MD1,14,O_MD_ooid 1_5,-8.01874101,0.919195227,ooid,ooid,MDE_173_6
+MD,2,1,pink2,O,MD2,13,O_MD_pink2_1,-9.219200481,0.919195227,pink,pink,MDE_173_6
+MD,2,2,pink2,O,MD2,14,O_MD_pink2_2,-8.992321079,0.919195227,pink,pink,MDE_173_6
+MD,2,3,pink2,O,MD2,9,O_MD_pink2_3,-10.28985628,0.919195227,pink,pink,MDE_173_6
+MD,2,4,pink2,O,MD2,12,O_MD_pink2_4,-7.895915622,0.919195227,pink,pink,MDE_173_6
+MD,2,5,pink2,O,MD2,8,O_MD_pink2_5,-9.253783652,0.919195227,pink,pink,MDE_173_6
+MD,2,6,pink2,O,MD2,18,O_MD_pink2_6,-10.40535067,0.919195227,pink,pink,MDE_173_6
+MD,2,7,pink2,O,MD2,20,O_MD_pink2_7,-9.897232468,0.919195227,pink,pink,MDE_173_6
+MD,2,8,pink2,O,MD2,21,O_MD_pink2_8,-9.867826021,0.919195227,pink,pink,MDE_173_6
+MD,2,9,pink2,O,MD2,23,O_MD_pink2_9,-8.69011339,0.919195227,pink,pink,MDE_173_6
+MD,2,10,pink2,O,MD2,25,O_MD_pink2_10,-8.394152009,0.919195227,pink,pink,MDE_173_6
+MD,2,1,cement 2,O,,,O_MD_cement 2_1,-9.000269592,0.919195227,cement,cement,MDE_173_6
+MD,2,1,ooid 2,O,,,O_MD_ooid 2_1,-10.15806137,0.919195227,ooid,ooid,MDE_173_6
+MD,2,2,cement 2,O,,,O_MD_cement 2_2,-8.039718141,0.919195227,cement,cement,MDE_173_6
+MD,2,2,ooid 2,O,,,O_MD_ooid 2_2,-9.580270859,0.919195227,ooid,ooid,MDE_173_6
+MD,2,3,cement 2,O,,,O_MD_cement 2_3,-9.880476587,0.919195227,cement,cement,MDE_173_6
+MD,2,3,ooid 2,O,,,O_MD_ooid 2_3,-9.184991318,0.919195227,ooid,ooid,MDE_173_6
+MD,2,4,cement 2,O,,,O_MD_cement 2_4,-5.326453252,0.919195227,cement,cement,MDE_173_6
+MD,2,4,ooid 2,O,,,O_MD_ooid 2_4,-9.004211346,0.919195227,ooid,ooid,MDE_173_6
+MD,2,5,cement 2,O,,,O_MD_cement 2_5,-7.962318834,0.919195227,cement,cement,MDE_173_6
+MD,2,5,ooid 2,O,,,O_MD_ooid 2_5,-8.293938206,0.919195227,ooid,ooid,MDE_173_6
+WS,2,1,cement2,C,WS_cement2,7,C_WS_cement2_1,-9.31262276,1.670740613,cement,cement,WS_7_7
+WS,2,2,cement2,C,WS_cement2,10,C_WS_cement2_2,-7.381175872,1.670740613,cement,cement,WS_7_7
+WS,2,3,cement2,C,WS_cement2,11,C_WS_cement2_3,-8.337816308,1.670740613,cement,cement,WS_7_7
+WS,1,1,cement1,C,WS_ooid1,3,C_WS_cement1_1,-6.95,1.670740613,cement,cement,WS_7_7
+WS,1,2,cement1,C,WS_ooid1,4,C_WS_cement1_2,-9.32,1.670740613,cement,cement,WS_7_7
+WS,1,3,cement1,C,WS_ooid1,7,C_WS_cement1_3,-8.84,1.670740613,cement,cement,WS_7_7
+WS,1,4,cement1,C,WS_ooid1,5,C_WS_cement1_4,-11.15,1.670740613,cement,cement,WS_7_7
+WS,1,5,ooid1 5-15,C,WS_ooid1,18,C_WS_ooid1 5-15_5,-8.716185463,0.845997048,inner,ooid,WS_7_7
+WS,1,6,ooid1 5-15,C,WS_ooid1,16,C_WS_ooid1 5-15_6,-7.927920922,0.845997048,inner,ooid,WS_7_7
+WS,1,7,ooid1 5-15,C,WS_ooid1,15,C_WS_ooid1 5-15_7,-9.608873132,0.845997048,inner,ooid,WS_7_7
+WS,1,8,ooid1 5-15,C,WS_ooid1,14,C_WS_ooid1 5-15_8,-8.973792713,0.845997048,inner,ooid,WS_7_7
+WS,1,9,ooid1 5-15,C,WS_ooid1,13,C_WS_ooid1 5-15_9,-8.653947392,0.845997048,inner,ooid,WS_7_7
+WS,1,10,ooid1 5-15,C,WS_ooid1,11,C_WS_ooid1 5-15_10,-7.31138729,0.845997048,outer,ooid,WS_7_7
+WS,1,11,ooid1 5-15,C,WS_ooid1,8,C_WS_ooid1 5-15_11,-9.321150489,0.845997048,outer,ooid,WS_7_7
+WS,1,12,ooid1 5-15,C,WS_ooid1,10,C_WS_ooid1 5-15_12,-14.42062738,0.845997048,outer,ooid,WS_7_7
+WS,1,13,ooid1 5-15,C,WS_ooid1,12,C_WS_ooid1 5-15_13,-9.976572822,0.845997048,outer,ooid,WS_7_7
+WS,1,14,ooid1 5-15,C,WS_ooid1,25,C_WS_ooid1 5-15_14,-11.0768712,0.845997048,outer,ooid,WS_7_7
+WS,1,15,ooid1 5-15,C,WS_ooid1,17,C_WS_ooid1 5-15_15,-11.99682606,0.845997048,outer,ooid,WS_7_7
+WS,1,1,Ooid1,C,WS_ooid1,21,C_WS_ooid1_1,-5.619022926,1.670740613,inner,ooid,WS_7_7
+WS,1,2,Ooid1,C,WS_ooid1,27,C_WS_ooid1_2,-10.52351453,1.670740613,inner,ooid,WS_7_7
+WS,1,3,Ooid1,C,WS_ooid1,31,C_WS_ooid1_3,-9.760226305,1.670740613,outer,ooid,WS_7_7
+WS,1,4,Ooid1,C,WS_ooid1,28,C_WS_ooid1_4,-9.358281849,1.670740613,outer,ooid,WS_7_7
+WS,10,1,ooid10 1-10,C,WS_ooid10,9,C_WS_ooid10 1-10_1,-12.05,0.845997048,outer,ooid,WS_7_7
+WS,10,2,ooid10 1-10,C,WS_ooid10,10,C_WS_ooid10 1-10_2,-10.14,0.845997048,outer,ooid,WS_7_7
+WS,10,3,ooid10 1-10,C,WS_ooid10,11,C_WS_ooid10 1-10_3,-10.39,0.845997048,outer,ooid,WS_7_7
+WS,10,4,ooid10 1-10,C,WS_ooid10,12,C_WS_ooid10 1-10_4,-10.93,0.845997048,inner,ooid,WS_7_7
+WS,10,5,ooid10 1-10,C,WS_ooid10,13,C_WS_ooid10 1-10_5,-9.02,0.845997048,inner,ooid,WS_7_7
+WS,10,6,ooid10 1-10,C,WS_ooid10,14,C_WS_ooid10 1-10_6,-9.73,0.845997048,inner,ooid,WS_7_7
+WS,10,7,ooid10 1-10,C,WS_ooid10,15,C_WS_ooid10 1-10_7,-9.16,0.845997048,inner,ooid,WS_7_7
+WS,10,8,ooid10 1-10,C,WS_ooid10,16,C_WS_ooid10 1-10_8,-10.3,0.845997048,outer,ooid,WS_7_7
+WS,10,9,ooid10 1-10,C,WS_ooid10,18,C_WS_ooid10 1-10_9,-10.93,0.845997048,outer,ooid,WS_7_7
+WS,10,10,ooid10 1-10,C,WS_ooid10,19,C_WS_ooid10 1-10_10,-10.14,0.845997048,outer,ooid,WS_7_7
+WS,10,11,ooid10 11-20,C,WS_ooid10,8,C_WS_ooid10 11-20_11,-10.50556405,0.845997048,outer,ooid,WS_7_7
+WS,10,12,ooid10 11-20,C,WS_ooid10,7,C_WS_ooid10 11-20_12,-9.378716465,0.845997048,outer,ooid,WS_7_7
+WS,10,13,ooid10 11-20,C,WS_ooid10,6,C_WS_ooid10 11-20_13,-10.54977034,0.845997048,outer,ooid,WS_7_7
+WS,10,14,ooid10 11-20,C,WS_ooid10,5,C_WS_ooid10 11-20_14,-10.55710306,0.845997048,inner,ooid,WS_7_7
+WS,10,15,ooid10 11-20,C,WS_ooid10,4,C_WS_ooid10 11-20_15,-10.14115002,0.845997048,inner,ooid,WS_7_7
+WS,10,16,ooid10 11-20,C,WS_ooid10,3,C_WS_ooid10 11-20_16,-8.696162555,0.845997048,inner,ooid,WS_7_7
+WS,10,17,ooid10 11-20,C,WS_ooid10,2,C_WS_ooid10 11-20_17,-10.07908539,0.845997048,outer,ooid,WS_7_7
+WS,10,18,ooid10 11-20,C,WS_ooid10,1,C_WS_ooid10 11-20_18,-9.987522301,0.845997048,outer,ooid,WS_7_7
+WS,10,19,ooid10 11-20,C,WS_ooid10,0,C_WS_ooid10 11-20_19,-9.835698901,0.845997048,outer,ooid,WS_7_7
+WS,10,20,ooid10 11-20,C,WS_ooid10,17,C_WS_ooid10 11-20_20,-9.242300406,0.845997048,inner,ooid,WS_7_7
+WS,2,1,Ooid2,C,WS_ooid2,1,C_WS_ooid2_1,-10.35439727,1.670740613,inner,ooid,WS_7_7
+WS,2,2,Ooid2,C,WS_ooid2,7,C_WS_ooid2_2,-8.274206129,1.670740613,inner,ooid,WS_7_7
+WS,2,3,Ooid2,C,WS_ooid2,2,C_WS_ooid2_3,-10.20732074,1.670740613,outer,ooid,WS_7_7
+WS,3,1,ooid3,C,WS_ooid3,25,C_WS_ooid_1,-16.97532758,1.670740613,outer,ooid,WS_7_7
+WS,3,2,ooid3,C,WS_ooid3,24,C_WS_ooid_2,-10.70406852,1.670740613,outer,ooid,WS_7_7
+WS,3,3,ooid3,C,WS_ooid3,23,C_WS_ooid_3,-11.79878277,1.670740613,inner,ooid,WS_7_7
+WS,3,4,ooid3,C,WS_ooid3,22,C_WS_ooid_4,-14.40249648,1.670740613,inner,ooid,WS_7_7
+WS,3,5,ooid3,C,WS_ooid3,21,C_WS_ooid_5,-12.43940403,1.670740613,inner,ooid,WS_7_7
+WS,3,6,ooid3,C,WS_ooid3,20,C_WS_ooid_6,-10.47659768,1.670740613,inner,ooid,WS_7_7
+WS,3,7,ooid3,C,WS_ooid3,19,C_WS_ooid_7,-9.247987835,1.670740613,outer,ooid,WS_7_7
+WS,3,8,ooid3,C,WS_ooid3,18,C_WS_ooid_8,-13.54137121,1.670740613,outer,ooid,WS_7_7
+WS,3,9,cement3,C,WS_ooid3,10,C_WS_cement3_9,-8.818115872,1.670740613,cement,cement,WS_7_7
+WS,3,10,cement3,C,WS_ooid3,9,C_WS_cement3_10,-13.56274672,1.670740613,cement,cement,WS_7_7
+WS,3,11,cement3,C,WS_ooid3,8,C_WS_cement3_11,-11.64025264,1.670740613,cement,cement,WS_7_7
+WS,3,12,ooid3b,C,WS_ooid3,14,C_WS_ooid3b_12,-10.63973196,1.670740613,outer,ooid,WS_7_7
+WS,3,13,ooid3b,C,WS_ooid3,15,C_WS_ooid3b_13,-8.834291454,1.670740613,outer,ooid,WS_7_7
+WS,3,14,ooid3b,C,WS_ooid3,12,C_WS_ooid3b_14,-10.37626642,1.670740613,inner,ooid,WS_7_7
+WS,3,15,ooid3b,C,WS_ooid3,11,C_WS_ooid3b_15,-10.67661079,1.670740613,inner,ooid,WS_7_7
+WS,3,16,ooid3b,C,WS_ooid3,13,C_WS_ooid3b_16,-7.428300563,1.670740613,inner,ooid,WS_7_7
+WS,3,17,ooid3b,C,WS_ooid3,7,C_WS_ooid3b_17,-6.791280017,1.670740613,inner,ooid,WS_7_7
+WS,3,18,ooid3b,C,WS_ooid3,6,C_WS_ooid3b_18,-9.707082771,1.670740613,outer,ooid,WS_7_7
+WS,3,19,ooid3b,C,WS_ooid3,5,C_WS_ooid3b_19,-9.213351969,1.670740613,outer,ooid,WS_7_7
+WS,3,20,cement3b,C,WS_ooid3,3,C_WS_cement3b_20,-8.489108021,1.670740613,cement,cement,WS_7_7
+WS,3,21,cement3b,C,WS_ooid3,1,C_WS_cement3b_21,-6.437307667,1.670740613,cement,cement,WS_7_7
+WS,3,22,cement3b,C,WS_ooid3,0,C_WS_cement3b_22,-7.153679805,1.670740613,cement,cement,WS_7_7
+WS,8,1,ooid8 1-14,C,WS_ooid8,21,C_WS_ooid8 1-14_1,-9.978341573,0.870941728,outer,ooid,WS_7_7
+WS,8,2,ooid8 1-14,C,WS_ooid8,19,C_WS_ooid8 1-14_2,-8.582183953,0.870941728,outer,ooid,WS_7_7
+WS,8,3,ooid8 1-14,C,WS_ooid8,17,C_WS_ooid8 1-14_3,-8.747269492,0.870941728,inner,ooid,WS_7_7
+WS,8,4,ooid8 1-14,C,WS_ooid8,12,C_WS_ooid8 1-14_4,-8.87888001,0.870941728,inner,ooid,WS_7_7
+WS,8,5,ooid8 1-14,C,WS_ooid8,7,C_WS_ooid8 1-14_5,-7.938231961,0.870941728,inner,ooid,WS_7_7
+WS,8,6,ooid8 1-14,C,WS_ooid8,3,C_WS_ooid8 1-14_6,-9.927690435,0.870941728,outer,ooid,WS_7_7
+WS,8,7,ooid8 1-14,C,WS_ooid8,2,C_WS_ooid8 1-14_7,-9.466290716,0.870941728,outer,ooid,WS_7_7
+WS,8,8,ooid8 1-14,C,WS_ooid8,0,C_WS_ooid8 1-14_8,-8.864531787,0.870941728,outer,ooid,WS_7_7
+WS,8,9,ooid8 1-14,C,WS_ooid8,1,C_WS_ooid8 1-14_9,-10.76273022,0.870941728,outer,ooid,WS_7_7
+WS,8,10,ooid8 1-14,C,WS_ooid8,4,C_WS_ooid8 1-14_10,-9.130641529,0.870941728,inner,ooid,WS_7_7
+WS,8,11,ooid8 1-14,C,WS_ooid8,8,C_WS_ooid8 1-14_11,-7.388333304,0.870941728,inner,ooid,WS_7_7
+WS,8,12,ooid8 1-14,C,WS_ooid8,11,C_WS_ooid8 1-14_12,-10.6758442,0.870941728,inner,ooid,WS_7_7
+WS,8,13,ooid8 1-14,C,WS_ooid8,14,C_WS_ooid8 1-14_13,-9.046954315,0.870941728,outer,ooid,WS_7_7
+WS,8,14,ooid8 1-14,C,WS_ooid8,15,C_WS_ooid8 1-14_14,-7.963179411,0.870941728,outer,ooid,WS_7_7
+WS,8,15,ooid8 15-24,C,WS_ooid8,24,C_WS_ooid8 15-24_15,-9.982101009,0.845997048,outer,ooid,WS_7_7
+WS,8,16,ooid8 15-24,C,WS_ooid8,23,C_WS_ooid8 15-24_16,-9.098490567,0.845997048,outer,ooid,WS_7_7
+WS,8,17,ooid8 15-24,C,WS_ooid8,22,C_WS_ooid8 15-24_17,-9.936457086,0.845997048,outer,ooid,WS_7_7
+WS,8,18,ooid8 15-24,C,WS_ooid8,20,C_WS_ooid8 15-24_18,-10.49567495,0.845997048,inner,ooid,WS_7_7
+WS,8,19,ooid8 15-24,C,WS_ooid8,18,C_WS_ooid8 15-24_19,-9.701451118,0.845997048,inner,ooid,WS_7_7
+WS,8,20,ooid8 15-24,C,WS_ooid8,16,C_WS_ooid8 15-24_20,-10.64889787,0.845997048,inner,ooid,WS_7_7
+WS,8,21,ooid8 15-24,C,WS_ooid8,13,C_WS_ooid8 15-24_21,-9.825794804,0.845997048,inner,ooid,WS_7_7
+WS,8,22,ooid8 15-24,C,WS_ooid8,9,C_WS_ooid8 15-24_22,-7.678290741,0.845997048,inner,ooid,WS_7_7
+WS,8,23,ooid8 15-24,C,WS_ooid8,6,C_WS_ooid8 15-24_23,-9.535430609,0.845997048,outer,ooid,WS_7_7
+WS,8,24,ooid8 15-24,C,WS_ooid8,5,C_WS_ooid8 15-24_24,-8.917954487,0.845997048,outer,ooid,WS_7_7
+WS,9,1,ooid9 1-10,C,WS_ooid9,15,C_WS_ooid9 1-10_1,-8.38839428,0.845997048,inner,ooid,WS_7_7
+WS,9,2,ooid9 1-10,C,WS_ooid9,13,C_WS_ooid9 1-10_2,-9.445158291,0.845997048,inner,ooid,WS_7_7
+WS,9,3,ooid9 1-10,C,WS_ooid9,12,C_WS_ooid9 1-10_3,-10.32599493,0.845997048,inner,ooid,WS_7_7
+WS,9,4,ooid9 1-10,C,WS_ooid9,7,C_WS_ooid9 1-10_4,-12.08168915,0.845997048,inner,ooid,WS_7_7
+WS,9,5,ooid9 1-10,C,WS_ooid9,,C_WS_ooid9 1-10_5,-8.850910355,0.845997048,inner,ooid,WS_7_7
+WS,9,6,ooid9 1-10,C,WS_ooid9,3,C_WS_ooid9 1-10_6,-8.188789822,0.845997048,inner,ooid,WS_7_7
+WS,9,7,ooid9 1-10,C,WS_ooid9,18,C_WS_ooid9 1-10_7,-9.576960037,0.845997048,inner,ooid,WS_7_7
+WS,9,8,ooid9 1-10,C,WS_ooid9,14,C_WS_ooid9 1-10_8,-9.355012973,0.845997048,inner,ooid,WS_7_7
+WS,9,9,ooid9 1-10,C,WS_ooid9,17,C_WS_ooid9 1-10_9,-8.219267131,0.845997048,inner,ooid,WS_7_7
+WS,9,10,ooid9 1-10,C,WS_ooid9,16,C_WS_ooid9 1-10_10,-9.222456935,0.845997048,inner,ooid,WS_7_7
+WS,9,11,ooid9 1-10,C,WS_ooid9,4,C_WS_ooid9 1-10_11,-6.905685475,0.845997048,outer,ooid,WS_7_7
+WS,9,11,ooid9 11-20,C,WS_ooid9,2,C_WS_ooid9 11-20_11,-8.589014548,0.845997048,outer,ooid,WS_7_7
+WS,9,12,ooid9 11-20,C,WS_ooid9,2,C_WS_ooid9 11-20_12,-8.192556133,0.845997048,outer,ooid,WS_7_7
+WS,9,13,ooid9 11-20,C,WS_ooid9,1,C_WS_ooid9 11-20_13,-9.196887657,0.845997048,outer,ooid,WS_7_7
+WS,9,14,ooid9 11-20,C,WS_ooid9,8,C_WS_ooid9 11-20_14,-9.213984888,0.845997048,outer,ooid,WS_7_7
+WS,9,15,ooid9 11-20,C,WS_ooid9,5,C_WS_ooid9 11-20_15,-9.402323639,0.845997048,outer,ooid,WS_7_7
+WS,9,16,ooid9 11-20,C,WS_ooid9,20,C_WS_ooid9 11-20_16,-10.1960553,0.845997048,outer,ooid,WS_7_7
+WS,9,17,ooid9 11-20,C,WS_ooid9,21,C_WS_ooid9 11-20_17,-8.512609071,0.845997048,outer,ooid,WS_7_7
+WS,9,18,ooid9 11-20,C,WS_ooid9,22,C_WS_ooid9 11-20_18,-7.064968981,0.845997048,outer,ooid,WS_7_7
+WS,9,19,ooid9 11-20,C,WS_ooid9,19,C_WS_ooid9 11-20_19,-9.310600117,0.845997048,outer,ooid,WS_7_7
+WS,9,20,ooid9 11-20,C,WS_ooid9,11,C_WS_ooid9 11-20_20,-7.578108608,0.845997048,outer,ooid,WS_7_7
+WS,2,1,cement2,O,WS_cement2,6,O_WS_cement2_1,-9.015480708,0.837089968,cement,cement,WS_7_7
+WS,2,2,cement2,O,WS_cement2,8,O_WS_cement2_2,-8.907041388,0.837089968,cement,cement,WS_7_7
+WS,2,3,cement2,O,WS_cement2,9,O_WS_cement2_3,-9.194251486,0.837089968,cement,cement,WS_7_7
+WS,2,4,cement2,O,WS_cement2,5,O_WS_cement2_4,-7.738303638,0.837089968,cement,cement,WS_7_7
+WS,2,5,cement2,O,WS_cement2,12,O_WS_cement2_5,-8.928054627,0.837089968,cement,cement,WS_7_7
+WS,1,1,cement1,O,WS_ooid1,2,O_WS_cement1_1,-9.282005094,0.837089968,cement,cement,WS_7_7
+WS,1,1,ooid1,O,WS_ooid1,20,O_WS_ooid1_1,-8.471294056,0.837089968,ooid,ooid,WS_7_7
+WS,1,6,ooid1,O,WS_ooid1,19,O_WS_ooid1_6,-8.647202543,0.837089968,ooid,ooid,WS_7_7
+WS,1,2,cement1,O,WS_ooid1,1,O_WS_cement1_2,-10.99767758,0.837089968,cement,cement,WS_7_7
+WS,1,2,ooid1,O,WS_ooid1,24,O_WS_ooid1_2,-3.694625575,0.837089968,ooid,ooid,WS_7_7
+WS,1,7,ooid1,O,WS_ooid1,23,O_WS_ooid1_7,-8.198154462,0.837089968,ooid,ooid,WS_7_7
+WS,1,3,cement1,O,WS_ooid1,9,O_WS_cement1_3,-8.656270171,0.837089968,cement,cement,WS_7_7
+WS,1,3,ooid1,O,WS_ooid1,30,O_WS_ooid1_3,-8.139277839,0.837089968,ooid,ooid,WS_7_7
+WS,1,8,ooid1,O,WS_ooid1,32,O_WS_ooid1_8,-9.013695773,0.837089968,ooid,ooid,WS_7_7
+WS,1,4,cement1,O,WS_ooid1,6,O_WS_cement1_4,-10.56972601,0.837089968,cement,cement,WS_7_7
+WS,1,9,ooid1,O,WS_ooid1,29,O_WS_ooid1_9,-8.483984267,0.837089968,ooid,ooid,WS_7_7
+WS,1,5,cement1,O,WS_ooid1,0,O_WS_cement1_5,-10.74520966,0.837089968,cement,cement,WS_7_7
+WS,1,10,ooid1,O,WS_ooid1,22,O_WS_ooid1_10,-8.650788429,0.837089968,ooid,ooid,WS_7_7
+WS,2,1,ooid2,O,WS_ooid2,4,O_WS_ooid2_1,-9.511763142,0.837089968,ooid,ooid,WS_7_7
+WS,2,2,ooid2,O,WS_ooid2,3,O_WS_ooid2_2,-7.823633043,0.837089968,ooid,ooid,WS_7_7
+WS,2,3,ooid2,O,WS_ooid2,6,O_WS_ooid2_3,-9.620458539,0.837089968,ooid,ooid,WS_7_7
+WS,2,4,ooid2,O,WS_ooid2,5,O_WS_ooid2_4,-8.895201218,0.837089968,ooid,ooid,WS_7_7
+WS,2,5,ooid2,O,WS_ooid2,8,O_WS_ooid2_5,-8.747494561,0.837089968,ooid,ooid,WS_7_7
+WS,3,1,ooid3,O,WS_ooid3,31,O_WS_ooid3_1,-10.43031936,0.837089968,ooid,ooid,WS_7_7
+WS,3,2,ooid3,O,WS_ooid3,32,O_WS_ooid3_2,-10.11113083,0.837089968,ooid,ooid,WS_7_7
+WS,3,3,ooid3,O,WS_ooid3,30,O_WS_ooid3_3,-8.526641358,0.837089968,ooid,ooid,WS_7_7
+WS,3,4,ooid3,O,WS_ooid3,28,O_WS_ooid3_4,-8.610519275,0.837089968,ooid,ooid,WS_7_7
+WS,3,5,ooid3,O,WS_ooid3,29,O_WS_ooid3_5,-11.1626737,0.837089968,ooid,ooid,WS_7_7
+WS,3,6,ooid3,O,WS_ooid3,27,O_WS_ooid3_6,-8.916238733,0.837089968,ooid,ooid,WS_7_7
+WS,3,7,ooid3,O,WS_ooid3,26,O_WS_ooid3_7,-8.456380013,0.837089968,ooid,ooid,WS_7_7
+WS,3,8,cement3,O,WS_ooid3,17,O_WS_cement3_8,-11.98203164,0.837089968,cement,cement,WS_7_7
+WS,3,9,cement3,O,WS_ooid3,16,O_WS_cement3_9,-10.47801444,0.837089968,cement,cement,WS_7_7
+WS,3,10,cement3,O,WS_ooid3,4,O_WS_cement3_10,-8.771456871,0.837089968,cement,cement,WS_7_7
+WS,4,1,cement4 1-10,O,WS_ooid4,16,O_WS_cement4 1-10_1,-11.35952303,0.681101637,cement,cement,WS_7_7
+WS,4,1,ooid4 1-10,O,WS_ooid4,11,O_WS_ooid4 1-10_1,-8.407604869,0.681101637,ooid,ooid,WS_7_7
+WS,4,2,cement4 1-10,O,WS_ooid4,14,O_WS_cement4 1-10_2,-8.601188531,0.681101637,cement,cement,WS_7_7
+WS,4,2,ooid4 1-10,O,WS_ooid4,12,O_WS_ooid4 1-10_2,-7.898935796,0.681101637,ooid,ooid,WS_7_7
+WS,4,3,cement4 1-10,O,WS_ooid4,8,O_WS_cement4 1-10_3,-10.65606818,0.681101637,cement,cement,WS_7_7
+WS,4,3,ooid4 1-10,O,WS_ooid4,15,O_WS_ooid4 1-10_3,-9.688362593,0.681101637,ooid,ooid,WS_7_7
+WS,4,4,cement4 1-10,O,WS_ooid4,13,O_WS_cement4 1-10_4,-9.496975085,0.681101637,cement,cement,WS_7_7
+WS,4,4,ooid4 1-10,O,WS_ooid4,10,O_WS_ooid4 1-10_4,-10.71243458,0.681101637,ooid,ooid,WS_7_7
+WS,4,5,cement4 1-10,O,WS_ooid4,1,O_WS_cement4 1-10_5,-8.645586942,0.681101637,cement,cement,WS_7_7
+WS,4,5,ooid4 1-10,O,WS_ooid4,0,O_WS_ooid4 1-10_5,-8.52398972,0.681101637,ooid,ooid,WS_7_7
+WS,4,6,cement4 1-10,O,WS_ooid4,4,O_WS_cement4 1-10_6,-7.987566122,0.681101637,cement,cement,WS_7_7
+WS,4,6,ooid4 1-10,O,WS_ooid4,6,O_WS_ooid4 1-10_6,-10.93423397,0.681101637,ooid,ooid,WS_7_7
+WS,4,7,cement4 1-10,O,WS_ooid4,5,O_WS_cement4 1-10_7,-7.981972774,0.681101637,cement,cement,WS_7_7
+WS,4,7,ooid4 1-10,O,WS_ooid4,7,O_WS_ooid4 1-10_7,-8.369231718,0.681101637,ooid,ooid,WS_7_7
+WS,4,8,cement4 1-10,O,WS_ooid4,17,O_WS_cement4 1-10_8,-9.67424948,0.681101637,cement,cement,WS_7_7
+WS,4,8,ooid4 1-10,O,WS_ooid4,3,O_WS_ooid4 1-10_8,-8.858732518,0.681101637,ooid,ooid,WS_7_7
+WS,4,9,cement4 1-10,O,WS_ooid4,18,O_WS_cement4 1-10_9,-8.377651995,0.681101637,cement,cement,WS_7_7
+WS,4,9,ooid4 1-10,O,WS_ooid4,2,O_WS_ooid4 1-10_9,-9.185133752,0.681101637,ooid,ooid,WS_7_7
+WS,4,10,cement4 1-10,O,WS_ooid4,19,O_WS_cement4 1-10_10,-8.806390511,0.681101637,cement,cement,WS_7_7
+WS,4,10,ooid4 1-10,O,WS_ooid4,9,O_WS_ooid4 1-10_10,-8.793010506,0.681101637,ooid,ooid,WS_7_7
+WS,5,1,cement5 1-5,O,WS_ooid5,18,O_WS_cement5 1-5_1,-8.136614603,0.681101637,cement,cement,WS_7_7
+WS,5,1,ooid5 1-10,O,WS_ooid5,7,O_WS_ooid5 1-10_1,-8.926020511,0.681101637,ooid,ooid,WS_7_7
+WS,5,2,cement5 1-5,O,WS_ooid5,19,O_WS_cement5 1-5_2,-8.204990773,0.681101637,cement,cement,WS_7_7
+WS,5,2,ooid5 1-10,O,WS_ooid5,13,O_WS_ooid5 1-10_2,-9.863612152,0.681101637,ooid,ooid,WS_7_7
+WS,5,3,cement5 1-5,O,WS_ooid5,2,O_WS_cement5 1-5_3,-10.52558965,0.681101637,cement,cement,WS_7_7
+WS,5,3,ooid5 1-10,O,WS_ooid5,16,O_WS_ooid5 1-10_3,-9.15979969,0.681101637,ooid,ooid,WS_7_7
+WS,5,4,cement5 1-5,O,WS_ooid5,1,O_WS_cement5 1-5_4,-9.132350692,0.681101637,cement,cement,WS_7_7
+WS,5,4,ooid5 1-10,O,WS_ooid5,17,O_WS_ooid5 1-10_4,-9.213142298,0.681101637,ooid,ooid,WS_7_7
+WS,5,5,cement5 1-5,O,WS_ooid5,0,O_WS_cement5 1-5_5,-10.74103318,0.681101637,cement,cement,WS_7_7
+WS,5,5,ooid5 1-10,O,WS_ooid5,12,O_WS_ooid5 1-10_5,-9.339980272,0.681101637,ooid,ooid,WS_7_7
+WS,5,6,ooid5 1-10,O,WS_ooid5,9,O_WS_ooid5 1-10_6,-10.25852993,0.681101637,ooid,ooid,WS_7_7
+WS,5,7,ooid5 1-10,O,WS_ooid5,15,O_WS_ooid5 1-10_7,-8.900693519,0.681101637,ooid,ooid,WS_7_7
+WS,5,8,ooid5 1-10,O,WS_ooid5,14,O_WS_ooid5 1-10_8,-9.809950998,0.681101637,ooid,ooid,WS_7_7
+WS,5,9,ooid5 1-10,O,WS_ooid5,11,O_WS_ooid5 1-10_9,-9.540286969,0.681101637,ooid,ooid,WS_7_7
+WS,5,10,ooid5 1-10,O,WS_ooid5,5,O_WS_ooid5 1-10_10,-9.697193923,0.681101637,ooid,ooid,WS_7_7
+WS,5,11,ooid5 11-13,O,WS_ooid5,6,O_WS_ooid5 11-13_11,-9.89370173,0.681101637,ooid,ooid,WS_7_7
+WS,5,12,ooid5 11-13,O,WS_ooid5,10,O_WS_ooid5 11-13_12,-10.41059722,0.681101637,ooid,ooid,WS_7_7
+WS,5,13,ooid5 11-13,O,WS_ooid5,8,O_WS_ooid5 11-13_13,-9.782548892,0.681101637,ooid,ooid,WS_7_7
+WS,6,1,cement6 1-8,O,WS_ooid6,5,O_WS_cement6 1-8_1,-8.536190404,0.681101637,cement,cement,WS_7_7
+WS,6,1,ooid6 1-10,O,WS_ooid6,14,O_WS_ooid6 1-10_1,-9.817512652,0.681101637,ooid,ooid,WS_7_7
+WS,6,2,cement6 1-8,O,WS_ooid6,4,O_WS_cement6 1-8_2,-8.212400968,0.681101637,cement,cement,WS_7_7
+WS,6,2,ooid6 1-10,O,WS_ooid6,3,O_WS_ooid6 1-10_2,-9.685672435,0.681101637,ooid,ooid,WS_7_7
+WS,6,3,cement6 1-8,O,WS_ooid6,10,O_WS_cement6 1-8_3,-8.698174809,0.681101637,cement,cement,WS_7_7
+WS,6,3,ooid6 1-10,O,WS_ooid6,0,O_WS_ooid6 1-10_3,-8.241288854,0.681101637,ooid,ooid,WS_7_7
+WS,6,4,cement6 1-8,O,WS_ooid6,8,O_WS_cement6 1-8_4,-9.064277201,0.681101637,cement,cement,WS_7_7
+WS,6,4,ooid6 1-10,O,WS_ooid6,1,O_WS_ooid6 1-10_4,-8.755866303,0.681101637,ooid,ooid,WS_7_7
+WS,6,5,cement6 1-8,O,WS_ooid6,16,O_WS_cement6 1-8_5,-6.094022482,0.681101637,cement,cement,WS_7_7
+WS,6,5,ooid6 1-10,O,WS_ooid6,9,O_WS_ooid6 1-10_5,-8.375097763,0.681101637,ooid,ooid,WS_7_7
+WS,6,6,cement6 1-8,O,WS_ooid6,18,O_WS_cement6 1-8_6,-7.890625662,0.681101637,cement,cement,WS_7_7
+WS,6,6,ooid6 1-10,O,WS_ooid6,13,O_WS_ooid6 1-10_6,-8.935266242,0.681101637,ooid,ooid,WS_7_7
+WS,6,7,cement6 1-8,O,WS_ooid6,19,O_WS_cement6 1-8_7,-8.654629644,0.681101637,cement,cement,WS_7_7
+WS,6,7,ooid6 1-10,O,WS_ooid6,15,O_WS_ooid6 1-10_7,-8.02384685,0.681101637,ooid,ooid,WS_7_7
+WS,6,8,cement6 1-8,O,WS_ooid6,17,O_WS_cement6 1-8_8,-9.510273,0.681101637,cement,cement,WS_7_7
+WS,6,8,ooid6 1-10,O,WS_ooid6,12,O_WS_ooid6 1-10_8,-8.57532431,0.681101637,ooid,ooid,WS_7_7
+WS,6,9,ooid6 1-10,O,WS_ooid6,2,O_WS_ooid6 1-10_9,-9.03067916,0.681101637,ooid,ooid,WS_7_7
+WS,6,10,ooid6 1-10,O,WS_ooid6,6,O_WS_ooid6 1-10_10,-9.531008017,0.681101637,ooid,ooid,WS_7_7
+WS,6,11,ooid6 11-12,O,WS_ooid6,11,O_WS_ooid6 11-12_11,-8.645447318,0.681101637,ooid,ooid,WS_7_7
+WS,6,12,ooid6 11-12,O,WS_ooid6,7,O_WS_ooid6 11-12_12,-8.984751026,0.681101637,ooid,ooid,WS_7_7

@@ -1,0 +1,29 @@
+$CM_TYPE            Image
+$CM_NAME            k_bergman/082923
+$CM_COMMENT         WS5.4-2                                 
+$CM_DATE            2023-08-29
+$CM_TIME            17:22:00
+$CM_INSTRUMENT      JXA-8800
+$CM_DATA_TYPE       0
+$CM_FRAME_SIZE      400 200
+$CM_DATA_BIT        16
+$CM_BYTE_ORDER      0
+$CM_ACCEL_VOLT      15.0 kV
+$CM_MAG             40
+$CM_CURRENT         9.946e-09
+$CM_SCAN_SPEED      S4  
+$CM_ACCUMULATION    1
+$CM_PIXEL_MES       40 msec
+$CM_PIXEL_SIZE      0.50 0.50 um
+$CM_STAGE_POS       67.8040 73.2035 10.6105 mm
+$CM_MAX_MIN_AVE     9 0 1
+$XM_APPLICATION     Map Analysis
+$XM_ELEMENT         P
+$XM_CHANNEL         9
+$XM_CRYSTAL         ROI-2   
+$XM_CRYSTAL_NO      1
+$XM_SCAN_TYPE       S
+$XM_DWELL_TIME      40 msec
+$XM_STEP_SIZE       0.50 0.50 um
+$XM_MAP_START       67.7542 73.1038 10.6105 mm
+$XM_POINTS          400 200

@@ -1,0 +1,29 @@
+$CM_TYPE            Image
+$CM_NAME            k_bergman/073123
+$CM_COMMENT         WS_7_7                                  
+$CM_DATE            2023-07-31
+$CM_TIME            16:34:00
+$CM_INSTRUMENT      JXA-8800
+$CM_DATA_TYPE       0
+$CM_FRAME_SIZE      400 400
+$CM_DATA_BIT        16
+$CM_BYTE_ORDER      0
+$CM_ACCEL_VOLT      15.0 kV
+$CM_MAG             40
+$CM_CURRENT         1.014e-08
+$CM_SCAN_SPEED      S4  
+$CM_ACCUMULATION    1
+$CM_PIXEL_MES       40 msec
+$CM_PIXEL_SIZE      1.00 1.00 um
+$CM_STAGE_POS       19.5740 93.9870 10.5290 mm
+$CM_MAX_MIN_AVE     21 0 0
+$XM_APPLICATION     Map Analysis
+$XM_ELEMENT         Fe
+$XM_CHANNEL         1
+$XM_CRYSTAL         LIF     
+$XM_CRYSTAL_NO      1
+$XM_SCAN_TYPE       S
+$XM_DWELL_TIME      40 msec
+$XM_STEP_SIZE       1.00 1.00 um
+$XM_MAP_START       19.3745 93.7875 10.5290 mm
+$XM_POINTS          400 400

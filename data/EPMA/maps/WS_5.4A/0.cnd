@@ -1,0 +1,240 @@
+9			Number of measured elements [1~110]
+0			Number of processed elements [1~110]
+1			Number of measurement sequences [1~110]
+1			Dummy Data  No.9
+1			Dummy Data  No.0
+1			Dummy Data  No.0
+15.0			EOS Acc. Voltage [kV]
+59			EOS CL [C]
+349			EOS CL [F]
+951434			EOS OL [C]
+0			EOS OF [F]
+0			EOS Probe Diameter [um] 
+1000			EOS Mag. 
+O			EOS On[O]/Off[f] Probe Scan 
+SPT			EOS Scan Mode 
+S4  			EOS Scan Speed 
+9.946e-09  9.951e-09  9.941e-09  Probe Current Avg, Before After [A]
+20			EDS Energy Full Scale [kV] 10/20/40
+2048			EDS Spectrum Data Point [1024/2048]
+L			EDS Measuring Mode [L:Lib /R:Real Time]
+5			EDS Measuring Time
+2			EDS Aperture No. [0~5]
+S			Stage[S] or Beam[B] Scan
+67.8040			Measurement Center Position X [mm]
+73.2035			Measurement Center Position Y [mm]
+10.6105      		Measurement Center Position Z [mm]
+67.7542			Measurement Start Position X [mm]
+73.1038			Measurement Start Position Y [mm]
+10.6105			Measurement Start Position Z [mm]
+200			X-axis Step Number [1~1024]
+400			Y-axis Step Number [1~1024]
+0.50			X Step Size [um], or Beam Dots Width
+0.50			Y Step Size [um], or Beam Dots Width
+10.6105			Z-B Coordibnate [mm]
+10.6105			Z-C Coordibnate [mm]
+10.6105			Z-D Coordibnate [mm]
+U     	 		Scan Direction U:Single/B:Double/Rotation 
+2			Data Byte Length [2:16bit / 4:32bit] 
+40			Dwell Time [msec]
+40			Scan Mag. [Onle Beam Scan Mode]
+WS5.4-2                                  
+Aug 29 17:22 2023         
+Ca      		Element Name No.2-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+W			Signal Name [W:WDS E:EDS I:IMS]
+1			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+LIF             		Crystal Name 
+1			Crystal Number
+233.707			Peak Position [mm] --- WDS ---
+16			PHA Gain 
+1716			PHA Detector HV 
+0.70			PHA Base Level [V] 
+9.30			PHA Window Level [V]
+D			PHA Int[I] or Def[D]
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+42			Max Value
+0			Min Value
+18			Ave Value
+1			Accumulation Number [Only Beam Scan]
+Si      		Element Name No.3-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+W			Signal Name [W:WDS E:EDS I:IMS]
+2			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+TAP             		Crystal Name 
+1			Crystal Number
+77.226			Peak Position [mm] --- WDS ---
+32			PHA Gain 
+1724			PHA Detector HV 
+0.70			PHA Base Level [V] 
+9.30			PHA Window Level [V]
+D			PHA Int[I] or Def[D]
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+234			Max Value
+0			Min Value
+21			Ave Value
+1			Accumulation Number [Only Beam Scan]
+S       		Element Name No.4-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+W			Signal Name [W:WDS E:EDS I:IMS]
+3			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+PETJ            		Crystal Name 
+1			Crystal Number
+172.195			Peak Position [mm] --- WDS ---
+64			PHA Gain 
+1750			PHA Detector HV 
+0.70			PHA Base Level [V] 
+9.30			PHA Window Level [V]
+D			PHA Int[I] or Def[D]
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+12			Max Value
+0			Min Value
+0			Ave Value
+1			Accumulation Number [Only Beam Scan]
+Fe      		Element Name No.5-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+W			Signal Name [W:WDS E:EDS I:IMS]
+4			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+LIFH            		Crystal Name 
+2			Crystal Number
+135.159			Peak Position [mm] --- WDS ---
+32			PHA Gain 
+1780			PHA Detector HV 
+0.70			PHA Base Level [V] 
+9.30			PHA Window Level [V]
+D			PHA Int[I] or Def[D]
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+164			Max Value
+0			Min Value
+0			Ave Value
+1			Accumulation Number [Only Beam Scan]
+Al      		Element Name No.6-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+W			Signal Name [W:WDS E:EDS I:IMS]
+5			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+TAPH            		Crystal Name 
+2			Crystal Number
+90.440			Peak Position [mm] --- WDS ---
+32			PHA Gain 
+1640			PHA Detector HV 
+0.70			PHA Base Level [V] 
+9.30			PHA Window Level [V]
+D			PHA Int[I] or Def[D]
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+143			Max Value
+0			Min Value
+10			Ave Value
+1			Accumulation Number [Only Beam Scan]
+CP      		Element Name No.1-Seq.1 **********
+I       		X-ray Name
+0			X-ray Order
+I			Signal Name [W:WDS E:EDS I:IMS]
+6			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+COMPO           		Crystal Name 
+0			Crystal Number
+3510			IMS Contrast
+530			IMS Brightness
+0			IMS ACB
+3510			IMS Dummy Data
+3510			IMS Dummy Data
+3510			IMS Dummy Data
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+2040			Max Value
+0			Min Value
+610			Ave Value
+1			Accumulation Number [Only Beam Scan]
+Mg      		Element Name No.7-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+E			Signal Name [W:WDS E:EDS I:IMS]
+8			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+ROI-1           		Crystal Name 
+1			Crystal Number
+1.103			Start Value of Region 1
+1.404			End Value of Region 1
+0.000			Start Value of Region 2
+0.000			End Value of Region 2
+0			EDS Dummy Data
+0			EDS Dummy Data
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+8			Max Value
+0			Min Value
+0			Ave Value
+1			Accumulation Number [Only Beam Scan]
+P       		Element Name No.8-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+E			Signal Name [W:WDS E:EDS I:IMS]
+9			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+ROI-2           		Crystal Name 
+1			Crystal Number
+1.846			Start Value of Region 1
+2.180			End Value of Region 1
+0.000			Start Value of Region 2
+0.000			End Value of Region 2
+0			EDS Dummy Data
+0			EDS Dummy Data
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+9			Max Value
+0			Min Value
+1			Ave Value
+1			Accumulation Number [Only Beam Scan]
+K       		Element Name No.9-Seq.1 **********
+Ka      		X-ray Name
+1			X-ray Order
+E			Signal Name [W:WDS E:EDS I:IMS]
+10			Channel Number[1-5:WDS 8-15:EDS 6,7:IMS]
+ROI-3           		Crystal Name 
+1			Crystal Number
+3.110			Start Value of Region 1
+3.515			End Value of Region 1
+0.000			Start Value of Region 2
+0.000			End Value of Region 2
+0			EDS Dummy Data
+0			EDS Dummy Data
+0.0000			Coefficient A  count/msec/uA/wt% 
+0.0000			Coefficient B  count/msec/uA 
+0.0000			Coefficient C
+0.00			Scale M
+0.00			Bias N
+11			Max Value
+0			Min Value
+1			Ave Value
+1			Accumulation Number [Only Beam Scan]
