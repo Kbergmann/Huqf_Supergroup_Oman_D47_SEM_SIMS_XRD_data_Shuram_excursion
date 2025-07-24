@@ -1,5 +1,5 @@
 # shuram_excursion_carbonates_oman
-Github repository for Bergmann et al., Origins and alteration of Ediacaran carbonates recording the Shuram excursion in Oman
+Github repository for Bergmann, K.D., Osburn, M.R., Anderson, N.T., Hayhow, C., Wilcots, J., Cantine, M.D., Fischer, W.W. and Bonifacie, M., 2025. Origins and alteration of Ediacaran carbonates recording the Shuram excursion in Oman. Geochemistry, Geophysics, Geosystems, 26(5), p.e2025GC012161.
 
 This repository contains data, code, and supporting materials for our study of the carbonate strata associated with the Shuram excursion, the largest known negative carbon isotope excursion in Earth's history. Our research investigates sedimentological, geochemical, and isotopic evidence to evaluate the nature and degree of diagenesis in these carbonate rocks, with a focus on understanding primary signals and diagenetic overprints.
 
@@ -72,11 +72,13 @@ pip install -r requirements.txt
 Run Analyses:
 
 Run the scripts in the code/ directory to recreate the figures in the publication.
-Pre-Public Access
-This repository is currently private for peer review. If you have access, please refrain from sharing the data or code publicly until the repository is made public and a Zenodo DOI is assigned.
+
+This repository is public.
 
 Citation
-If using this repository, please cite the associated publication:
+If using this repository, please cite the associated publication: Bergmann, K.D., Osburn, M.R., Anderson, N.T., Hayhow, C., Wilcots, J., Cantine, M.D., Fischer, W.W. and Bonifacie, M., 2025. Origins and alteration of Ediacaran carbonates recording the Shuram excursion in Oman. Geochemistry, Geophysics, Geosystems, 26(5), p.e2025GC012161.
+
+Also the and Zenodo doi:  Bergmann, K. D., Osburn, M., Anderson, N., Hayhow, C., Wilcots, J., & Cantine, M. (2025). Zenodo. (Data Repository associated with: Origins and alteration of Ediacaran carbonates recording the Shuram excursion in Oman). https://doi.org/10.5281/zenodo.15115352
 
 Bergmann, K.D. et al. "Origins and alteration of Ediacaran carbonates recording the Shuram excursion in Oman." Journal Name, Year. DOI: [To be added upon publication].
 
